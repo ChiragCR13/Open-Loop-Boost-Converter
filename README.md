@@ -52,6 +52,12 @@ When the transistor is ON, energy is stored in the magnetic field of the inducto
 
 When the transistor switches OFF, the inductor releases its stored energy through the Schottky diode into the output capacitor and load, thereby producing an output voltage greater than the input voltage.
 
+## Circuit Diagram
+
+<p align="center">
+<img src="Hardware/Circuit_Diagram.png" width="700">
+</p>
+
 ---
 
 # Simulation
@@ -67,6 +73,11 @@ Simulation was used to study:
 - Component selection
 
 The simulated results were later compared with practical hardware measurements.
+## LTspice Simulation
+
+<p align="center">
+<img src="images/PWM.png" width="700">
+</p>
 
 ---
 
@@ -79,6 +90,18 @@ The simulated results were later compared with practical hardware measurements.
 | Input Voltage | 1.5 V |
 | Switching Frequency | 44.45 kHz |
 | Duty Cycle | 82.3 % |
+
+## Inductor Current
+
+<p align="center">
+<img src="images/Inductor_Current.png" width="700">
+</p>
+
+## Output Voltage
+
+<p align="center">
+<img src="images/Output.png" width="700">
+</p>
 
 ---
 
