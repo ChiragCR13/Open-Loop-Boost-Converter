@@ -156,8 +156,6 @@ This experimental analysis demonstrates one of the primary limitations of BJT-ba
 # Repository Structure
 
 ```
-Boost-Converter/
-│
 ├── LTSpice/
 │   ├── BoostConverter.asc
 │
