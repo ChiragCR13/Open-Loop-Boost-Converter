@@ -1,5 +1,15 @@
 # Open-Loop Boost Converter using a Discrete Astable Multivibrator
 
+## Hardware Prototype
+
+<p align="center">
+  <img src="Hardware/circuit_picture.jpeg" width="650">
+</p>
+
+*Figure 1: Hardware implementation of the open-loop boost converter.*
+
+---
+
 ## Overview
 
 This project presents the design, simulation, implementation, and experimental characterization of an **open-loop DC-DC boost converter** capable of stepping up a **1.5 V DC input** to approximately **7.8 V** under no-load conditions.
